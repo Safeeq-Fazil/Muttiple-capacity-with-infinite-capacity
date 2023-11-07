@@ -1,6 +1,6 @@
 ## Ex no: 5
 
-## 20.10.23
+## DATE : 20.10.23
 
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
